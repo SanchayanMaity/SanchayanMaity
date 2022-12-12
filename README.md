@@ -1,0 +1,60 @@
+# Open source contributions
+
+- [GStreamer](https://gitlab.freedesktop.org/gstreamer/gstreamer/-/merge_requests?scope=all&state=all&author_username=SanchayanMaity)
+- [gst-plugins-rs](https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs/-/merge_requests?scope=all&state=all&author_username=SanchayanMaity)
+- [Linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Sanchayan+Maity)
+- [u-boot](https://source.denx.de/u-boot/u-boot/-/commits/master?search=Sanchayan%20Maity)
+- [PipeWire](https://gitlab.freedesktop.org/pipewire/pipewire/-/merge_requests?scope=all&state=all&author_username=SanchayanMaity)
+- [PulseAudio](https://gitlab.freedesktop.org/pulseaudio/pulseaudio/-/merge_requests?scope=all&state=all&author_username=SanchayanMaity)
+
+# Talks
+
+- [Free Monads](https://www.youtube.com/watch?v=fhu1UQel5eo)
+- [Lens](https://www.youtube.com/watch?v=0sAvCCAz8DQ)
+- [What's next for Bluetooth in PulseAudio?](https://www.youtube.com/watch?v=aU8Hjt2h6GQ)
+- [Using Rust and GStreamer for building multimedia pipelines](https://hasgeek.com/rustlang/rustlang-mini-conference/schedule/using-rust-for-building-multimedia-pipelines-using-gstreamer-UfW59v9esDeZut5mXUVXhy)
+
+# Blog
+
+- [sanchayanmaity.net](https://sanchayanmaity.net)
+- [sanchayanmaity.com](https://sanchayanmaity.com)
+
+# Tools
+
+- **desktop**: sway
+- **CLI**: neovim, tmux, foot, fzf, rg
+- **shell**: fish
+- **browser**: qutebrowser
+- ❤️  **Languages**: C, Rust, Haskell
+- 💔 **Languages**: Python, JavaScript, Typescript
+
+# dotfiles
+
+- [https://git.sr.ht/~sanchayanmaity/dotfiles](https://git.sr.ht/~sanchayanmaity/dotfiles)
+- [https://codeberg.org/sanchayanmaity/dotfiles](https://codeberg.org/sanchayanmaity/dotfiles)
+
+# Give up GitHub
+
+- [SourceHut](https://git.sr.ht/~sanchayanmaity)
+- [CodeBerg](https://codeberg.org/sanchayanmaity)
+- [GitLab](https://gitlab.freedesktop.org/SanchayanMaity)
+
+## Keys :key:
+
+ Public key used for signing:
+
+```bash
+41B3 422B 0370 3BF5 FD03  FAFB 6F6A 0609 C120 38F3
+```
+
+Also available as DNS TXT record.
+
+```bash
+dig TXT openpgp.sanchayanmaity.net +short | sed 's/"//g'
+```
+
+Also available via Web Key Directory at https://keys.openpgp.org/.
+
+```bash
+gpg --locate-keys --auto-key-locate clear,nodefault,wkd sanchayanmaity.net
+```
